@@ -18,7 +18,7 @@ The activation of individual segments of the display is done by giving a low sta
 ###### Files description:
 - top.vhd - main VHDL design file with the operation algorithm
 - tb.vhd - testbench file
-- iup1.xdc - file with constraints for the **Nexys-A7 board (FPGA xc7a100tcsg324-1)**
+- iup2.xdc - file with constraints for the **Nexys-A7 board (FPGA xc7a100tcsg324-1)**
 
 # PL Układ kombinacyjny VHDL
 ###### Opis:
@@ -39,4 +39,4 @@ Aktywowanie poszczególnych segmentów wyświetlacza odbywa się poprzez podanie
 ###### Opis plików:
 - top.vhd - główny plik projektu VHDL z algorytmem działania
 - tb.vhd - plik testbench
-- iup1.xdc - plik z ograniczeniami projektowymi dla płytki **Nexys-A7 (układ FPGA xc7a100tcsg324-1)**
+- iup2.xdc - plik z ograniczeniami projektowymi dla płytki **Nexys-A7 (układ FPGA xc7a100tcsg324-1)**
