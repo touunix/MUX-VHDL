@@ -15,6 +15,9 @@ The activation of individual segments of the display is done by giving a low sta
 ###### Simulation results:
 <img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="90%"></img>
 
+###### Verification results
+<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="90%"></img> 
+
 ###### Files description:
 - top.vhd - main VHDL design file with the operation algorithm
 - tb.vhd - testbench file
@@ -35,6 +38,9 @@ Aktywowanie poszczególnych segmentów wyświetlacza odbywa się poprzez podanie
 
 ###### Wyniki symulacji:
 <img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="90%"></img>
+
+###### Wyniki weryfikacji
+<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="90%"></img>
 
 ###### Opis plików:
 - top.vhd - główny plik projektu VHDL z algorytmem działania
