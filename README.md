@@ -13,10 +13,10 @@ In the simulation of the system, the switches are initialized to OFF and then sw
 The activation of individual segments of the display is done by giving a low state "0" to the output AN0 - AN3. Activating individual segments of a single display is done by giving a low state "0" on the A-G outputs.
 
 ###### Simulation results
-<img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="100%"></img>
 
 ###### Verification results
-<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="100%"></img> 
 
 ###### Files description
 - top.vhd - main VHDL design file with the operation algorithm
@@ -37,10 +37,10 @@ W przeprowadzonej symulacji układu przełączniki są zainicjalizowane na OFF, 
 Aktywowanie poszczególnych segmentów wyświetlacza odbywa się poprzez podanie stanu niskiego „0” na wyjściach AN0 - AN3. Aktywowanie poszczególnych segmentów pojedynczego wyświetlacza odbywa się poprzez podanie stanu niskiego „0” na wyjściach A-G.
 
 ###### Wyniki symulacji
-<img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159079415-c9fa2804-d107-4c8f-83cd-00dce574048c.png" width="100%"></img>
 
 ###### Wyniki weryfikacji
-<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/79804729/159367268-e122129e-63a5-4da2-9af9-8186ed28dd20.gif" width="100%"></img>
 
 ###### Opis plików
 - top.vhd - główny plik projektu VHDL z algorytmem działania
